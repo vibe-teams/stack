@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.ts"],"sourcesContent":["const a = 'asd';\r\n\r\nconsole.log('123');\r\n"],"mappings":";aAEA,QAAQ,IAAI,KAAK","names":[]}
